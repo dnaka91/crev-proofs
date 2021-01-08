@@ -15,3 +15,20 @@ trust: medium
 Vj8gE4aZ0ChOirqOU6d9lz29IjqdNX5U-nWFswxYf5kKy_sqf-bZ3TqYJEZgMxN36qG3j_kmPt_O4oEd-sbgDA
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2021-01-08T18:24:44.609065+09:00"
+from:
+  id-type: crev
+  id: hh61ipWVawjEbDtSmyYhXdNLkUPkXKIZQox84Dof4IM
+  url: "https://github.com/dnaka91/crev-proofs"
+ids:
+  - id-type: crev
+    id: Qf4cHJBEoho61fd5zoeweyrFCIZ7Pb5X5ggc5iw4B50
+    url: "https://github.com/kornelski/crev-proofs"
+trust: medium
+----- SIGN CREV PROOF -----
+aXfjges_DlDTlxQ5VzTB-fPD7J4qcUkdchIbbbREK1k2rfWkhmIJIjTltOLWzlEhLYIfDqXGJPm6jQD2JfTjCA
+----- END CREV PROOF -----
+
